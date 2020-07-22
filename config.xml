@@ -1,22 +1,16 @@
 <!-- Just to build for mobile,Web port still works anywhere :) -->
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    xmlns:android = "http://schemas.android.com/apk/res/android"
     id          = "com.steria773.lines"
-    versionCode = "1"
-    version     = "0.0.7">
-
-<!-- versionCode is optional and Android only -->
-
-  <name>LINES!!!</name>
-
-  <description>
-      Port of LINES!!! game from GitHub.
-  </description>
-
-  <author href="https://github.com/Rabios" email="steria773@gmail.com">
-      Rabia Alhaffar
-  </author>
-
-</widget>
+    versionCode = "10"
+    version     = "0.0.7" />
+<name>App</name>
+<description>
+    Web port of LINES!!! for mobile.
+</description>
+<author href="https://github.com/Rabios" email="steria773@gmail.com">
+    Rabia Alhaffar
+</author>
+<content src="index.html" />
+<access origin="*" />
