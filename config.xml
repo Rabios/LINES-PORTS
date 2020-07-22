@@ -4,11 +4,11 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.steria773.lines"
     versionCode = "1"
-    version     = "0.0.7" >
+    version     = "0.0.7" />
 
 <!-- versionCode is optional and Android only -->
 
-  <name>LINES</name>
+  <name>LINES!!!</name>
 
   <description>
       Port of LINES!!! game from GitHub.
