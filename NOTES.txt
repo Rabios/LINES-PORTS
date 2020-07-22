@@ -1,0 +1,6 @@
+Here game assets lies!!!
+
+NOTES:
+1- All sounds made by mine (Rabia Alhaffar) and ohnodario on raylib Discord channel
+2- Raylib logo and his font (Grixel Acme 7 Wide) are for raylib
+3- And used Pixelated font from web (Text file comes with it has same font name)
